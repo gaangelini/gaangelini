@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hello! I'm just starting my journey in the exciting field of data science, transitioning from a career in event management to explore new opportunities in technology. Currently, I'm focusing on:<br><br>Data Science: Beginning to understand the basics of data analysis and interpretation.<br>Python: Learning how to use Python for simple data manipulation and analysis.<br>Git: Getting familiar with version control to manage and share my projects.<br>MySQL: Starting to explore how to manage and query databases.<br>While I'm still at the early stages of learning, I am enthusiastic and committed to growing my skills. I believe in continuous learning and am excited about the possibilities that data science offers. Feel free to explore my repositories and join me on this learning journey!
 
 
